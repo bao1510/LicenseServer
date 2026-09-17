@@ -1,1 +1,6 @@
-{}
+{
+  "allowed_machines": [],
+  "pending_requests": {
+    "dee5c616e516bb30df1e19939557dd6e1758174ee49791f0c9658188068d2d54": "IP: 126.119.162.132 | Time: 2026-09-17 21:33:15"
+  }
+}
