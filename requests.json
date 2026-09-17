@@ -1,6 +1,10 @@
 {
-  "allowed_machines": [],
-  "pending_requests": {
-    "dee5c616e516bb30df1e19939557dd6e1758174ee49791f0c9658188068d2d54": "IP: 126.119.162.132 | Time: 2026-09-17 21:33:15"
-  }
+  "requests": [
+    {
+      "machine_id": "dee5c616e516bb30df1e19939557dd6e1758174ee49791f0c9658188068d2d54",
+      "computer_name": "DESKTOP-AK88B30",
+      "ip_address": "192.168.0.3",
+      "requested_at": "2026-09-17T21:58:08.6102609+09:00"
+    }
+  ]
 }
