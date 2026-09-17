@@ -1,13 +1,16 @@
 {
-  "license_id": "LIC-001",
-
-  "allowed_machines": [
+  "licenses": [
     {
-      "machine_id": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "computer_name": "BAO-PC",
-      "ip_address": "192.168.1.100",
-      "created_at": "2026-09-17T20:00:00+09:00",
-      "expires_at": "2027-09-17T23:59:59+09:00"
+      "license_id": "LIC-0001",
+      "allowed_machines": [
+        {
+          "machine_id": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "computer_name": "BAO-PC",
+          "ip_address": "192.168.1.100",
+          "created_at": "2026-09-17T20:15:00+09:00",
+          "expires_at": null
+        }
+      ]
     }
   ]
 }
