@@ -4,11 +4,11 @@
       "license_id": "LIC-0001",
       "allowed_machines": [
         {
-            "machine_id": "dee5c616e516bb30df1e19939557dd6e1758174ee49791f0c9658188068d2d54",
-            "computer_name": "DESKTOP-AK88B30",
-            "ip_address": "192.168.0.3",
-            "created_at": "2026-09-17T22:06:18.0600664+09:00"
-            "expires_at": null
+          "machine_id": "dee5c616e516bb30df1e19939557dd6e1758174ee49791f0c9658188068d2d54",
+          "computer_name": "DESKTOP-AK88B30",
+          "ip_address": "192.168.0.3",
+          "created_at": "2026-09-17T22:08:48+09:00",
+          "expires_at": "2026-09-30T23:59:59+09:00"
         }
       ]
     }
